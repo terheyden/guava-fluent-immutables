@@ -98,6 +98,7 @@ fabric.properties
 
 .idea/*
 
+# Disabling because I don't want to share these at the project level at the moment:
 #!.idea/codeStyles
 #!.idea/runConfigurations
 #!.idea/inspectionProfiles
@@ -292,3 +293,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Old Files ###
+*.old
+*.orig
